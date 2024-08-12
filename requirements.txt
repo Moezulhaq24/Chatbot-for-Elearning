@@ -1,0 +1,19 @@
+# Langchain Community Libraries
+langchain_community
+
+# Langchain Google Generative AI Libraries
+langchain_google_genai
+
+# Streamlit for UI
+streamlit
+
+# Huggingface Embeddings
+huggingface-hub
+transformers
+
+# FAISS (CPU or GPU)
+faiss-cpu
+# or
+# faiss-gpu
+
+python-dotenv
